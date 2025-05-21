@@ -63,11 +63,4 @@ Este repositorio contiene una colección de prácticas orientadas al aprendizaje
 - `app_ip_restrict.py`
 - `app_interface.py`
 
----
 
-## ▶️ Requisitos
-
-Instalar dependencias con:
-
-```bash
-pip install -r requirements.txt
